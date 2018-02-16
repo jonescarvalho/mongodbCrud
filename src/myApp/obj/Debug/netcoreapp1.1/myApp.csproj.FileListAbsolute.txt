@@ -1,0 +1,9 @@
+C:\dotnetCoreTst\myApp\bin\Debug\netcoreapp1.1\myApp.deps.json
+C:\dotnetCoreTst\myApp\bin\Debug\netcoreapp1.1\myApp.runtimeconfig.json
+C:\dotnetCoreTst\myApp\bin\Debug\netcoreapp1.1\myApp.runtimeconfig.dev.json
+C:\dotnetCoreTst\myApp\bin\Debug\netcoreapp1.1\myApp.dll
+C:\dotnetCoreTst\myApp\bin\Debug\netcoreapp1.1\myApp.pdb
+C:\dotnetCoreTst\myApp\obj\Debug\netcoreapp1.1\myApp.AssemblyInfo.cs
+C:\dotnetCoreTst\myApp\obj\Debug\netcoreapp1.1\myApp.dll
+C:\dotnetCoreTst\myApp\obj\Debug\netcoreapp1.1\myApp.pdb
+C:\dotnetCoreTst\myApp\obj\Debug\netcoreapp1.1\myApp.csprojResolveAssemblyReference.cache
